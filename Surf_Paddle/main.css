@@ -1,0 +1,260 @@
+ul{
+  list-style: none;
+
+}
+header.main{
+    background:url(assets/header.jpg) top center no-repeat;
+    width: 100%;
+    height: 523px;
+    margin: 0 auto;
+    background-size:cover;
+    position: relative;
+}
+code {
+  border-radius: 0px;
+  color: black;
+  display: block;
+  padding: 24px 15px;
+  text-align: center;
+  margin: 0;
+  font-family: 'Open Sans';
+  font-weight: 400;
+}
+
+header{
+  margin: 0;
+}
+header.main h3{
+  float: left;
+  position: absolute;
+  height: 45px;
+  top: 0;
+  left: 26.5%;
+  margin: 10px auto 0 -115px;
+  padding: 0 0 0 55px;
+  display: inline-flex;
+
+  background: url(assets/logo.png) top left no-repeat;
+
+  font-size: 1em;
+  font-family: sans-serif;
+  font-weight: 300;
+  color: #09334f;
+  line-height: 2.8em;
+}
+
+nav.tools{
+  float: right;
+  position: relative;
+  padding-right: 322px;
+}
+
+header a{
+  color: black;
+}
+header h3{
+  font-size: 25px;
+  font-family: 'Oswald';
+  font-weight: 400;
+  display: inline-block;
+}
+header h1{
+  font-family:'Oswald';
+  font-size: 100px;
+  font-weight: 400;
+  color: white;
+}
+header.main h6{
+  position: relative;
+  bottom: 140px;
+  font-family: 'Oswald';
+  font-size: 20px;
+  color: black;
+  font-weight: 400;
+  display: inline-block;
+  overflow: auto;
+  }
+
+section {
+  float: left;
+  width: 60%;
+  padding: 12px;
+  font-family: 'Open Sans';
+  color: black;
+  margin: 0;
+}
+
+section h2{
+  font-family: 'Oswald';
+  font-weight: 400;
+  font-size: 80px;
+  color: #2675B4;
+  float: left;
+}
+
+article.content {
+  background: url(assets/avatar.png) left no-repeat;
+}
+
+div.author p{
+position: relative;
+display: inline-block;
+left: -11em;
+color: #2675B4;
+}
+div.author time{
+  position: relative;
+  display: inline-block;
+  left: -11em;
+  color: gray;
+
+}
+
+
+section p.para{
+  text-align:justify;
+}
+section p.colorme{
+  color: #2675B4;
+  text-align: left;
+
+}
+
+.share{
+  padding: 0;
+  margin: 0 0 70px 0;
+}
+
+.share a{
+  text-decoration: none;
+  font-size: 0.8em;
+  padding: 5px 12px 5px 0;
+  margin: 0 4px 0 0;
+  color: white;
+}
+
+.share li{
+  display: inline-block;
+}
+
+.share li img{
+  background-color: #a4b3be;
+  padding:
+}
+
+.share li a{
+background-color: #5e686f;
+}
+
+aside {
+  display: inline-block;
+  font-weight: 400;
+  float: left;
+  width: 30%;
+  font-family: 'Open Sans';
+  color: black;
+}
+aside h3{
+  font-family: 'Oswald';
+  font-weight: 400;
+  font-size: 22px;
+  color: gray;
+}
+
+aside p.otherauthor{
+  color:#2675B4;
+  font-size: 24px;
+  font-family: 'Oswald';
+  font-weight: 300;
+}
+footer {
+  border-top: 1px solid gray;
+  display: block;
+  clear: left;
+  margin-bottom: 0;
+  font-family: 'Open Sans';
+
+}
+footer h2{
+  font-family: 'Oswald';
+  font-weight: 400;
+  font-size: 70px;
+  color: #0a3451;
+
+}
+
+footer.articles{
+  background: #0a3451;
+}
+footer.articles img{
+display:block;
+float: left;
+width: 25%;
+opacity: .3;
+background: #0a3451;
+transition: 1s ease all;
+}
+
+footer.articles img:hover{
+  opacity: .85;
+}
+
+section.bottom{
+  display:block;
+  width: 100%;
+}
+
+.bommom img{
+  float: left;
+}
+.articles2 h2{
+  position: absolute;
+  float: left;
+  width: 100%
+}
+
+.articlelinks li{
+  display: inline-block;
+  height: 325px;
+  color: white;
+  font-family: 'Oswald';
+}
+.articlelinks img{
+  height: 330px;
+}
+
+.footer-copy {
+  float: left;
+  color: gray;
+}
+
+.left-side {
+  float: left;
+  clear: both;
+}
+
+.footer-logo{
+  float: left;
+  clear: none;
+  margin: 0 10px 0 0;
+}
+
+.straight a {
+  text-decoration: none;
+  color: gray;
+  margin: 0 10px 0 0;
+}
+
+.straight a:last-child {
+  margin: 0;
+}
+
+.right-side, .straight{
+  float: right;
+}
+.bottom{
+background: #0a3451;
+}
+.naves{
+  background: #0a3451;
+}
